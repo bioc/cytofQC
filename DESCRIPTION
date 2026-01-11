@@ -1,7 +1,6 @@
 Package: cytofQC
 Type: Package
 Title: Labels normalized cells for CyTOF data and assigns probabilities for each label
-=======
 Version: 1.99.1
 Authors@R: c(
     person("Jill", "Lundell", role = c("aut", "cre"), email = "jflundell@gmail.com", comment = c(ORCID = "0000-0002-6048-4700")),
